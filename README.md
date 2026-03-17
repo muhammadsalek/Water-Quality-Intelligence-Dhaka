@@ -69,17 +69,8 @@ Shahjalal University of Science and Technology (SUST), Sylhet-3114, Bangladesh
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--5973--461X-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-5973-461X)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Md_Salek_Miah-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-salek-miah-b34309329/)
 
----
 
-**Supervisor**
 
-**Md Jamal Uddin, Ph.D.**
-Professor, Department of Statistics
-Shahjalal University of Science and Technology (SUST), Sylhet-3114, Bangladesh
-📧 [jamal-sta@sust.edu](mailto:jamal-sta@sust.edu)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8360--3274-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-8360-3274)
-
----
 
 **Affiliation**
 
